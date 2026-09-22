@@ -1,4 +1,4 @@
-# SHANTI.github.io
+# yashithatee.github.io
 <!DOCTYPE html>
 <html>
 
