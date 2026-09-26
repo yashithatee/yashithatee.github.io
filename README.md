@@ -26,20 +26,4 @@
 <h3> Club Cabinet </h3>
 <p> Executive- President: Vibra Balaji, Vice President: Ved Gandhi, Secretary: Shivani Patel, Treasuerer: Nandini Nathawat </p>
 <p> Apppointed- Talent show heads: Anoushka Rajeev & Albert Toy, Culture show heads: Aahan Nuella & Amaya Dugal, Director of Activities: Yashitha Teekaraman, Director of Publicity: Thaman Indala </p>
-
-
-<style> h1, h2, h3 {
-  font-family: "Barriecito", system-ui;
-  font-weight: 400;
-  font-style: normal;}
-  p  {
-  font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;}
-  
-  h1, h2, h3, p {color: #960002;}
-  body {background: #FFFDD0;}
-
-  </style>
   
