@@ -1,0 +1,14 @@
+<style> h1, h2, h3 {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;}
+  p  {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+
+  h1, h2, h3, p {color: #960002;}
+  body {background: #FFFDD0;}
+
+  </style>
